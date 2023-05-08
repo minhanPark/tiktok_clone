@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-## ssㄴ ㅇ
+## 깃허브 레드마인 등록
